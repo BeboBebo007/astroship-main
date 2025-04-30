@@ -1,0 +1,4 @@
+{
+    "powershell.sideBar.CommandExplorerVisibility": true,
+    "powershell.suppressAdditionalExeNotFoundWarning": true
+}
